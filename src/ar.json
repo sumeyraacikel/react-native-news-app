@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "The mystery of the poisonous butterflies, dazzling with their bright colors, has been solved.",
+    "content": "تم حل لغز الفراشات السامة المبهرة بألوانها الزاهية."
+  },
+  "common": {
+    "currentLanguage": "The current language is ",
+    "actions": {
+      "toggleToTurkish": "Turkish",
+      "toggleToEnglish": "English",
+      "toggleToArabic": "Arabic"
+    }}
+}
